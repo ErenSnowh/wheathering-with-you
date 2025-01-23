@@ -1,8 +1,8 @@
-const weatherKey = '20813375b673de38735fce816551a59f';
-const timeKey = 'manav_was';
+const weatherKey = 'add your open wheather key';
+const timeKey = 'geoname here';
 
-const token ='4t1e2xal5rvtwkie'
-const mobile ="917703918022"
+const token ='your wp token'
+const mobile ="number to whom send this"
 
 const audio = "https://buibuibucket.s3.amazonaws.com/audio/Sunny+Day/Pharrell_Williams_-_Happy_CeeNaija.com_.mp3";
 const message ="Hey love, as the rain falls, it reminds me of your laughter – a beautiful melody. Wish I could be there to dance in the rain with you. Miss you lots ❤❤❤✨"
